@@ -1,1 +1,1 @@
-This repository contains Jupyter Notebooks some Data Science concepts.
+This repository contains Jupyter Notebooks explaining Data Science concepts.
